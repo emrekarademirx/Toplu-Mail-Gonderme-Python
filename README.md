@@ -29,6 +29,18 @@ Bu Python scripti, kolay ve hızlı bir şekilde toplu e-posta gönderme işlemi
 - E-posta hesabınızın SMTP ayarlarını yapılandırmanız gerekir.
 - Dosya eki göndermek istiyorsanız, dosya ekinin okunabilir olması gerekir.
 
+## Yapımcı
+
+Emre Karademir
+
+## Web sitesi
+
+emrekarademir.com
+
+## GitHub
+
+emrekarademirx
+
 ## Lisans
 
 Bu script, açık kaynak kodlu bir projedir ve MIT Lisansı ile lisanslanmıştır. Kullanım ve dağıtım şartları hakkında daha fazla bilgi için [Lisans](LICENSE) dosyasına bakın.
